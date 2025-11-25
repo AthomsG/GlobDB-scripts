@@ -1,4 +1,4 @@
-# GlobDB KO Gene Finder & Sequence Extractor
+# GlobDB Stuff
 
 Find genes with specific KEGG KO annotations in GlobDB and extract their **protein sequences**.
 
